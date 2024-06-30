@@ -2,10 +2,10 @@ import fetch from 'node-fetch';
 
 // Configurações do bot Telegram
 const botToken = '7486305961:AAHNaYir4Cf4Vq6TFhdMhpULX64OiUHXQpc';
-const chatIds = ['447938340', '6452451093']; // Lista de IDs de chat
+const chatIds = ['447938340']; // Lista de IDs de chat
 
 // Mensagem que será enviada
-const message = 'Ajuste nova msg via github.';
+const message = 'Ajuste de Msgs via github!';
 
 // Função para enviar mensagem via bot do Telegram
 async function sendMessage(chatId) {
