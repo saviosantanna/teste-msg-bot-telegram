@@ -5,7 +5,7 @@ const botToken = '7486305961:AAHNaYir4Cf4Vq6TFhdMhpULX64OiUHXQpc';
 const chatIds = ['447938340', '6452451093']; // Lista de IDs de chat
 
 // Mensagem que será enviada
-const message = 'Msg de teste para duas pessoas.';
+const message = 'Ajuste nova msg via github.';
 
 // Função para enviar mensagem via bot do Telegram
 async function sendMessage(chatId) {
