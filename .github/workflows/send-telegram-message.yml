@@ -2,7 +2,7 @@ name: Send Telegram Message
 
 on:
   schedule:
-    - cron: '*/2 * * * *'  #para executar a cada 2min.
+    - cron: '*/15 * * * *'  #para executar a cada 2min.
     
     # Executa todos os dias às 10:30 AM UTC- Para horario local 3h a mais.
 
