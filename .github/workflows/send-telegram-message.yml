@@ -21,5 +21,4 @@ jobs:
 
       - name: Run script to send Telegram message
         run: |
-          cd saviosantanna/teste-msg-bot-telegram
           node index.js
